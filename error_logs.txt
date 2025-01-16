@@ -1,0 +1,25 @@
+[2024-12-30 23:37:19] ERROR: Invalid index pentru stergere masina: 5
+[2024-12-30 23:38:56] ERROR: Invalid index pentru stergere masina: 5
+[2024-12-30 23:44:21] ERROR: Invalid index pentru stergere masina: 5
+[2024-12-30 23:49:08] ERROR: Invalid index pentru stergere masina: 5
+[2024-12-30 23:51:10] ERROR: Invalid index pentru stergere masina: 5
+[2024-12-30 23:59:39] ERROR: Invalid index pentru stergere masina: 5
+[2024-12-31 00:05:46] ERROR: Invalid index pentru stergere masina: 5
+[2024-12-31 00:35:18] ERROR: Invalid index pentru stergere masina: 10
+[2025-01-04 15:00:50] ERROR: Invalid index pentru stergere masina: 5
+[2025-01-05 15:18:54] ERROR: Invalid index pentru stergere masina: 5
+[2025-01-09 18:23:02] ERROR: Error loading state: Deserialization of types without a parameterless constructor, a singular parameterized constructor, or a parameterized constructor annotated with 'JsonConstructorAttribute' is not supported. Type 'ProiectOOP.Masini'. Path: $.flotaMasini[0] | LineNumber: 5 | BytePositionInLine: 5.
+[2025-01-09 18:23:02] ERROR: Critical error Deserialization of types without a parameterless constructor, a singular parameterized constructor, or a parameterized constructor annotated with 'JsonConstructorAttribute' is not supported. Type 'ProiectOOP.Masini'. Path: $.flotaMasini[0] | LineNumber: 5 | BytePositionInLine: 5.
+[2025-01-09 18:23:06] ERROR: Error loading state: Deserialization of types without a parameterless constructor, a singular parameterized constructor, or a parameterized constructor annotated with 'JsonConstructorAttribute' is not supported. Type 'ProiectOOP.Masini'. Path: $.flotaMasini[0] | LineNumber: 5 | BytePositionInLine: 5.
+[2025-01-09 18:23:06] ERROR: Critical error Deserialization of types without a parameterless constructor, a singular parameterized constructor, or a parameterized constructor annotated with 'JsonConstructorAttribute' is not supported. Type 'ProiectOOP.Masini'. Path: $.flotaMasini[0] | LineNumber: 5 | BytePositionInLine: 5.
+[2025-01-09 18:23:09] ERROR: Error loading state: Deserialization of types without a parameterless constructor, a singular parameterized constructor, or a parameterized constructor annotated with 'JsonConstructorAttribute' is not supported. Type 'ProiectOOP.Masini'. Path: $.flotaMasini[0] | LineNumber: 5 | BytePositionInLine: 5.
+[2025-01-09 18:23:09] ERROR: Critical error Deserialization of types without a parameterless constructor, a singular parameterized constructor, or a parameterized constructor annotated with 'JsonConstructorAttribute' is not supported. Type 'ProiectOOP.Masini'. Path: $.flotaMasini[0] | LineNumber: 5 | BytePositionInLine: 5.
+[2025-01-09 18:24:04] ERROR: Error loading state: Deserialization of types without a parameterless constructor, a singular parameterized constructor, or a parameterized constructor annotated with 'JsonConstructorAttribute' is not supported. Type 'ProiectOOP.Masini'. Path: $.flotaMasini[0] | LineNumber: 5 | BytePositionInLine: 5.
+[2025-01-09 18:24:04] ERROR: Critical error Deserialization of types without a parameterless constructor, a singular parameterized constructor, or a parameterized constructor annotated with 'JsonConstructorAttribute' is not supported. Type 'ProiectOOP.Masini'. Path: $.flotaMasini[0] | LineNumber: 5 | BytePositionInLine: 5.
+[2025-01-09 18:31:08] ERROR: Error loading state: Deserialization of types without a parameterless constructor, a singular parameterized constructor, or a parameterized constructor annotated with 'JsonConstructorAttribute' is not supported. Type 'ProiectOOP.Masini'. Path: $.flotaMasini[0] | LineNumber: 5 | BytePositionInLine: 5.
+[2025-01-09 18:35:52] ERROR: Error loading state: Deserialization of types without a parameterless constructor, a singular parameterized constructor, or a parameterized constructor annotated with 'JsonConstructorAttribute' is not supported. Type 'ProiectOOP.Masini'. Path: $.flotaMasini[0] | LineNumber: 5 | BytePositionInLine: 5.
+[2025-01-14 15:55:33] ERROR: Critical error The input string '20000'' was not in a correct format.
+[2025-01-14 15:58:31] ERROR: Eroare la adaugare de masini: Could not find a part of the path '/ProiectPoo/asdf/proiect2/companie_state.json'.
+[2025-01-14 15:58:31] ERROR: Critical error Could not find a part of the path '/ProiectPoo/asdf/proiect2/companie_state.json'.
+[2025-01-14 16:13:40] ERROR: Eroare la adaugare de masini: Could not find a part of the path '/Users/arisradoi/Desktop/ProiectPoo/asdf/proiect2/bin/Debug/net7.0/asdf/proiect2/companie_state.json'.
+[2025-01-14 16:13:40] ERROR: Critical error Could not find a part of the path '/Users/arisradoi/Desktop/ProiectPoo/asdf/proiect2/bin/Debug/net7.0/asdf/proiect2/companie_state.json'.

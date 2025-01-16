@@ -1,0 +1,109 @@
+{
+  "$id": "1",
+  "Nume": "OSF Company",
+  "Adresa": "Str Poraisles nr.2",
+  "Cod": 422,
+  "Admin": "Marius Bicatenar",
+  "FlotaMasini": {
+    "$id": "2",
+    "$values": [
+      {
+        "TipMasina": "Standard",
+        "nrzile": 5,
+        "consum": "Normal",
+        "cost": 150,
+        "marca": "OPEL",
+        "model": "Astra",
+        "an": 2010,
+        "km": 30000,
+        "nrInmatriculare": "TM-21-OSF",
+        "disponibila": false
+      },
+      {
+        "TipMasina": "Standard",
+        "nrzile": 4,
+        "consum": "Normal",
+        "cost": 1000,
+        "marca": "BMW",
+        "model": "Seria 4",
+        "an": 2017,
+        "km": 20000,
+        "nrInmatriculare": "TM-23-OSF",
+        "disponibila": false
+      },
+      {
+        "TipMasina": "Electric",
+        "nrzile": 5,
+        "consum": "Redus",
+        "cost": 1200,
+        "marca": "Hyundai",
+        "model": "I30",
+        "an": 2020,
+        "km": 10000,
+        "nrInmatriculare": "TM-24-OSF",
+        "disponibila": true
+      },
+      {
+        "TipMasina": "Electric",
+        "nrzile": 5,
+        "consum": "Redus",
+        "cost": 1500,
+        "marca": "Tesla",
+        "model": "Model S",
+        "an": 2021,
+        "km": 5000,
+        "nrInmatriculare": "TM-25-OSF",
+        "disponibila": true
+      },
+      {
+        "TipMasina": "Standard",
+        "nrzile": 5,
+        "consum": "normal",
+        "cost": 250,
+        "marca": "BMW",
+        "model": "X1",
+        "an": 2013,
+        "km": 1800000,
+        "nrInmatriculare": "TM-23-ARI",
+        "disponibila": true
+      },
+      {
+        "TipMasina": "Standard",
+        "nrzile": 5,
+        "consum": "Normal",
+        "cost": 250,
+        "marca": "seat",
+        "model": "leon",
+        "an": 2003,
+        "km": 100000,
+        "nrInmatriculare": "TM-23-ABS",
+        "disponibila": true
+      }
+    ]
+  },
+  "ListaClienti": {
+    "$id": "3",
+    "$values": [
+      {
+        "$id": "4"
+      },
+      {
+        "$id": "5"
+      }
+    ]
+  },
+  "IstoricInchirieri": {
+    "$id": "6",
+    "$values": [
+      {
+        "$id": "7"
+      },
+      {
+        "$id": "8"
+      },
+      {
+        "$id": "9"
+      }
+    ]
+  }
+}
